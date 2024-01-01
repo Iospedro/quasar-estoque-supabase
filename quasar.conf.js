@@ -50,8 +50,8 @@ module.exports = configure(function (ctx) {
     build: {
       vueRouterMode: 'history', // available values: 'hash', 'history'
       env: {
-        SUPABASE_URL: 'https://fiopknivucqeguhjpqdo.supabase.co',
-        SUPABASE_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlhdCI6MTYzOTUyMTcwOSwiZXhwIjoxOTU1MDk3NzA5fQ.prM0rQ-qe7mHLFgm_508rCaC47lVJpx7YQqFnPUsHVs'
+        SUPABASE_URL: 'https://znrorktorgjztqtijwbn.supabase.co',
+        SUPABASE_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inpucm9ya3RvcmdqenRxdGlqd2JuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDM5NDA2MDgsImV4cCI6MjAxOTUxNjYwOH0.h0DHj40Ky7h4YXxltJ45AukMdQr-dfN8QCVl0uWWSO4'
       },
       // transpile: false,
       // publicPath: '/',
